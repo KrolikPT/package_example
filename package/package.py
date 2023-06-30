@@ -5,4 +5,4 @@ class Main():
 
 
     def show_name(self):
-        print(f"Hello Krolik!!!")
+        print(f"Hello New Package!!!")

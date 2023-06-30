@@ -10,7 +10,7 @@ setup(
     name="package_example",
     version=VERSION,
     author="Krolik",
-    author_email="<krolikpt@gmail.com>",
+    author_email="<example@mail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
